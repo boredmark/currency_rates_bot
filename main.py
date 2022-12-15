@@ -1,7 +1,8 @@
 from bot import Bot
 import time
+import config
 
-token = '5716630458:AAEeV_f_YMNrXErLl80VbZxpUkT4o2BRwfM'
+token = config.token
 bot = Bot(token)
 
 def bot_polling():

@@ -1,6 +1,8 @@
 # Telelgram bot(pet project✨)
 ## Bot for exchange rates
 
+##### _Deployed on Goodle Cloud https://t.me/Ex_999bot_ 
+
 ## Features
 
 - The bot takes in currency code that you want to sell and buy.
